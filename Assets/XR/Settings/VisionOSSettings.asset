@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 87fdc71f48fec416ba6b375d53aba3b8, type: 3}
+  m_Name: VisionOSSettings
+  m_EditorClassIdentifier: Unity.XR.VisionOS.Editor::UnityEditor.XR.VisionOS.VisionOSSettings
+  m_AppMode: 1
+  m_HandsTrackingUsageDescription: "Diese App verwendet Handtracking, damit du mit
+    deinen H\xE4nden nat\xFCrliche Gesten ausf\xFChren und Objekte direkt ausw\xE4hlen
+    kannst."
+  m_WorldSensingUsageDescription: "Diese App nutzt die r\xE4umliche Wahrnehmung des
+    Ger\xE4ts, um deine Umgebung zu erkennen und virtuelle Inhalte pr\xE4zise im
+    Raum zu platzieren."
+  m_RuntimeSettings: {fileID: 11400000, guid: 94706d8bd177b4edfaaa0695cea8dd5f, type: 2}
+  m_UpperLimbVisibility: 0
+  m_HighQualityRecordingMode: 0
+  m_FoveatedRendering: 1
+  m_MetalImmersionStyle: 0
+  m_RealityKitImmersionStyle: 0
+  m_MetalImmersiveOverlays: 0
+  m_RealityKitImmersiveOverlays: 0
+  m_IL2CPPLargeExeWorkaround: 0
+  m_UseACTool: 0
